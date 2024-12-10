@@ -11,7 +11,7 @@ This project provides logging tools for Python applications. It is designed to b
 To install this project, use the following command:
 
 ```sh
-git clone https://github.com/Klaynight-dev/logs_tools.git
+git clone https://github.com/Klaynight-dev/logs_tools_python.git
 ```
 
 Then, navigate to the project directory and install the required dependencies:
